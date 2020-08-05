@@ -1,3 +1,3 @@
 Project is pretty old, wow.
 
-A Twitter Client is Visual Basic
+A Twitter Client in Visual Basic
